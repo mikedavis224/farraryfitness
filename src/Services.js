@@ -2,7 +2,7 @@ import React from "react";
 
 const Services = () => {
   return (
-    <div className="bg-[#016162] py-20">
+    <div className="bg-[#B80500] py-20">
       <div className="container mx-auto">
         <h2 className="text-4xl font-bold text-center text-white mb-10">
           Our Services
