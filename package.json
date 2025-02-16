@@ -1,6 +1,6 @@
 {
-  "name": "nugotech",
-  "version": "0.1.0",
+  "name": "Farray Fitness",
+  "version": "0.1.10",
   "private": true,
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^16.0.0",
