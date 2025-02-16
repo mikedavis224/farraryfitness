@@ -36,7 +36,7 @@ const Services = () => {
               <p>Let's build a program that works for you.</p>
               <a
                 href="/Services"
-                className="bg-[#000000] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
+                className="bg-[#fdba30] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
                 aria-label="Learn More"
               >
                 Get Started Today
@@ -68,7 +68,7 @@ const Services = () => {
               <h2>Join the community</h2>
               <a
                 href="/Services"
-                className="bg-[#000000] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
+                className="bg-[#fdba30] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
                 aria-label="Learn More"
               >
                 View Our Class Schedule
@@ -110,7 +110,7 @@ const Services = () => {
             <div className="text-center mt-auto">
               <a
                 href="/Services"
-                className="bg-[#000000] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
+                className="bg-[#fdba30] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
                 aria-label="Learn More"
               >
                 Learn More About Online Coaching
