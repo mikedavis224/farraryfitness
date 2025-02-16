@@ -34,7 +34,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="bg-gray-100 text-gray-800 py-16 px-8">
+    <div className="bg-black text-red-700 py-16 px-8">
       <h2 className="text-4xl font-bold text-center mb-8">Contact Us</h2>
       <form
         onSubmit={handleSubmit(onSubmit)}
@@ -94,7 +94,7 @@ const Contact = () => {
         </div>
         <button
           type="submit"
-          className={`w-full bg-[#FDBA30] text-white py-2 px-4 rounded-lg hover:bg-[#FDBA30] transition duration-200 flex items-center justify-center ${
+          className={`w-full bg-[#FDBA30] text-white py-2 px-4 rounded-lg hover:bg-[#cc333333] transition duration-200 flex items-center justify-center ${
             isLoading ? "opacity-50 cursor-not-allowed" : ""
           }`}
           disabled={isLoading}

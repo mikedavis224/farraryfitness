@@ -29,14 +29,14 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row gap-4">
           <a
             href="#contact"
-            className="bg-[#FDBA30] text-black font-bold py-3 px-6 rounded-lg hover:bg-yellow-600 transition-all"
+            className="bg-[#FDBA30] text-black font-bold py-3 px-6 rounded-lg hover:bg-red-700 transition-all"
             aria-label="Get Started Now"
           >
             Get Started Now
           </a>
           <a
             href="#services"
-            className="bg-transparent border-2 border-white text-white font-bold py-3 px-6 rounded-lg hover:bg-white hover:text-black transition-all"
+            className="bg-transparent border-2 border-white text-white font-bold py-3 px-6 rounded-lg hover:bg-yellow-600 hover:text-black transition-all"
             aria-label="Learn More"
           >
             Learn More
