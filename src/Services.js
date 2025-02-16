@@ -68,7 +68,7 @@ const Services = () => {
               <h2>Join the community</h2>
               <a
                 href="/Services"
-                className="bg-[#CC3333] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
+                className="bg-[#000000] text-white py-2 px-4 rounded-lg hover:bg-red-700 mt-4 inline-block"
                 aria-label="Learn More"
               >
                 View Our Class Schedule
