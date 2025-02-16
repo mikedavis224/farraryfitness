@@ -94,7 +94,7 @@ const Contact = () => {
         </div>
         <button
           type="submit"
-          className={`w-full bg-[#016162] text-white py-2 px-4 rounded-lg hover:bg-[#014d4d] transition duration-200 flex items-center justify-center ${
+          className={`w-full bg-[#FDBA30] text-white py-2 px-4 rounded-lg hover:bg-[#FDBA30] transition duration-200 flex items-center justify-center ${
             isLoading ? "opacity-50 cursor-not-allowed" : ""
           }`}
           disabled={isLoading}
