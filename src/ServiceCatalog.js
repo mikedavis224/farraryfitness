@@ -4,7 +4,11 @@ const ServiceCatalog = () => {
   return (
     <div className="bg-[#B80500] py-20">
       <div className="container mx-auto">
-      <img src="/nugo-hero.png" className="bg-white "></img><br /><br />
+      <img src="/farrayfitness-hero.png" className="bg-white "></img><br /><br />
+      <h1>Welcome to Farray Fitness</h1>
+      <p>Welcome to Farray Fitness Services
+
+At Farray Fitness, we believe fitness is more than just a workout—it’s a journey toward a healthier, more confident you. That’s why we offer a wide range of services tailored to fit every lifestyle, fitness level, and goal. Explore our offerings and take the first step toward achieving the results you’ve always wanted.</p>
         <h2 className="text-4xl font-bold text-center text-white mb-10">
           Our Services
         </h2>
@@ -13,46 +17,38 @@ const ServiceCatalog = () => {
           {/* Cloud App Development Section */}
           <div className="bg-white shadow-lg rounded-lg p-6 max-w-sm flex flex-col">
             <h3 className="text-[#CC3333] text-xl font-bold mb-4 text-center">
-              Cloud App Development
+              Personal Training
             </h3>
             <p className="text-black font-bold mb-4 text-center">
-              Unlock your business's potential with custom cloud applications designed to meet your unique needs.
+            Achieve your goals faster with one-on-one guidance from our certified personal trainers. Whether you’re looking to lose weight, gain strength, or improve endurance, we’ll design a customized program that challenges you, keeps you motivated, and delivers measurable results.<br /><br />
+            
             </p>
-            <div className="font-regular text-black text-justify">
-              At <span className="text-[#CC3333] font-bold">Nugo Tech</span>, we specialize in creating scalable, secure, and efficient solutions that streamline your operations, improve productivity, and position your business for long-term success.<br /><br /> Leveraging industry-leading platforms like AWS and Azure, we ensure your applications are built to perform at their peak.
-            </div>
-            <p className="text-black mb-4 text-center mt-4">
-              {/* <b>Our Services Include:</b> */}
-            </p>
+            
             <ul className="text-black text-left list-disc pl-5 space-y-2">
-            <h4 className="font-bold text-center">Custom Applications Tailored to Your Workflows</h4>
-              <li>Whether you need a specialized dashboard, automated workflows, or client-facing portals, we develop applications that address your specific challenges and deliver measurable results.</li><br />
-              <h4 className="font-bold text-center">Seamless Integration with CRMs, ERPs, and Other Systems</h4>
-              <li>Maximize efficiency by connecting your cloud applications with existing systems. Our integrations eliminate redundancies, improve data flow, and enhance overall business operations.
+            <h4 className="font-bold text-center">Highlights:</h4>
+              <li>Personalized workout plans based on your goals and fitness level.</li><br />
+              <li>Expert guidance to ensure proper technique and reduce injury risks.
               </li><br />
-              <h4 className="font-bold text-center">Regular Updates and Maintenance for Long-Term Reliability</h4>
-              <li>Technology evolves, and so should your applications. We provide ongoing support and updates to ensure your tools remain secure, functional, and aligned with your business growth.</li>
+              <li>T    Ongoing progress tracking and adjustments to keep you on track.</li>
             </ul>
             <br />
             <div className="text-center mt-auto">
             <p className="text-black mb-4 font-bold italic" >
-                Let’s build the tools you need to succeed.
+                Invest in Yourself
               </p>
-              <p className="text-[#CC3333] font-bold mb-2">
-                Take Your Operations to the Cloud.<br /><br />
-              </p>
+              
               
               <a
                 href="/contact"
                 className="bg-[#CC3333] text-white py-2 px-4 rounded-lg hover:bg-red-700"
-                aria-label="Talk to Our Cloud Experts"
+                aria-label="Book your Free Consultation"
               >
-                Talk to Our Cloud Experts →
+                Book your Free Consultation →
               </a>
             </div>
           </div>
 
-          {/* Homepage Design Section */}
+          {/* Homepage Design Section 
           <div className="bg-white shadow-lg rounded-lg p-6 max-w-sm flex flex-col">
             <h3 className="text-[#CC3333] text-xl font-bold mb-4 text-center">
               Homepage Design
@@ -91,9 +87,9 @@ const ServiceCatalog = () => {
                 Let’s Start Your Project →
               </a>
             </div>
-          </div>
+          </div>*/}
 
-          {/* Web Hosting Section */}
+          {/* Web Hosting Section 
           <div className="bg-white shadow-lg rounded-lg p-6 max-w-sm flex flex-col">
             <h3 className="text-[#CC3333] text-xl font-bold mb-4 text-center">
               Web Hosting
@@ -133,7 +129,8 @@ const ServiceCatalog = () => {
                 View Hosting Options →
               </a>
             </div>
-          </div>
+            */}
+          {/* </div> */}
         </div>
       </div>
     </div>
