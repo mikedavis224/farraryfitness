@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="absolute top-2 left-4 border border-black rounded-md bg-white p-1">
           <Link to="/">
             <img
-              src="/farrayfitness-home-logo.png"
+              src="/farrayfitness-favicon.png"
               alt="farray fitness Logo"
               className="h-7 w-auto"
             />
