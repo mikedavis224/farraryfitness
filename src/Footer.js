@@ -21,7 +21,7 @@ const Footer = () => {
           {/* Phone */}
           <p>
             <a href="tel:+13012915611" className="hover:underline">
-              +1(301) 291-5611
+              +1(917) 618-1629
             </a>
           </p>
 
@@ -31,7 +31,7 @@ const Footer = () => {
           {/* Social Media Icons */}
           <div className="flex space-x-4">
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/people/Daniel-Farray/100075061168002/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300"
@@ -39,7 +39,7 @@ const Footer = () => {
               <FontAwesomeIcon icon={faFacebook} size="lg" />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/flash_fitness1433/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300"
@@ -47,12 +47,12 @@ const Footer = () => {
               <FontAwesomeIcon icon={faInstagram} size="lg" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.youtube.com/@flashfitness1433"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300"
             >
-              <FontAwesomeIcon icon={faLinkedin} size="lg" />
+              <FontAwesomeIcon icon="fa-brands fa-youtube" size="lg" />
             </a>
           </div>
         </div>
