@@ -2,7 +2,7 @@ import React from "react";
 
 const ServiceCatalog = () => {
   return (
-    <div className="bg-[#B80500] py-20">
+    <div className="bg-[#000000] py-20">
       <div className="container mx-auto">
       <img src="/farrayfitness-hero.png" className="bg-white "></img><br /><br />
       <h1>Welcome to Farray Fitness</h1>
@@ -29,7 +29,7 @@ At Farray Fitness, we believe fitness is more than just a workout—it’s a jou
               <li>Personalized workout plans based on your goals and fitness level.</li><br />
               <li>Expert guidance to ensure proper technique and reduce injury risks.
               </li><br />
-              <li>T    Ongoing progress tracking and adjustments to keep you on track.</li>
+              <li>Ongoing progress tracking and adjustments to keep you on track.</li>
             </ul>
             <br />
             <div className="text-center mt-auto">
