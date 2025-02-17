@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="relative h-screen flex flex-col lg:flex-row items-center bg-[#B80500]">
+    <div className="relative h-screen flex flex-col lg:flex-row items-center bg-[#000000]">
       {/* Left Column - Background Image */}
       <div
         className="w-full lg:w-1/2 h-1/2 lg:h-full relative bg-cover bg-center"
