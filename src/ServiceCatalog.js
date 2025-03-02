@@ -4,7 +4,7 @@ const ServiceCatalog = () => {
   return (
     <div className="bg-[#000000] py-20">
       <div className="container mx-auto">
-      <img src="/farrayfitness-hero.png" className="bg-white "></img><br /><br />
+      <img src="/ff-services.png" className="bg-white "></img><br /><br />
       <h1>Welcome to Farray Fitness</h1>
       <p>Welcome to Farray Fitness Services
 
