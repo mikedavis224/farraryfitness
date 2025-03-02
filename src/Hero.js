@@ -7,7 +7,7 @@ const Hero = () => {
       <div
         className="w-full lg:w-1/2 h-1/2 lg:h-full relative bg-cover bg-center"
         style={{
-          backgroundImage: "url('/ff-hero-ph.jpg')",
+          backgroundImage: "url('/ff-hero.png')",
         }}
       >
         {/* Dark Overlay */}
