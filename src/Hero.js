@@ -46,7 +46,7 @@ const Hero = () => {
             <a
               href="https://client.everfit.io/signup/i/CHK9743IZH"
               className="bg-[#FDBA30] text-white py-2 px-4 lg:px-6 rounded-lg hover:bg-red-700 transition-all"
-              aria-label="Get Started Now"
+              aria-label="Get Started Now" target="_blank" rel="noreferrer">
             >
               Book Your Free Consultation
             </a>
